@@ -1,0 +1,9 @@
+{
+  "label": "Configuración inicial",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "configuracion-inicial",
+    "description": "Encuentra ayuda sobre las configuraciones básicas."
+  }
+}

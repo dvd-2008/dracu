@@ -1,0 +1,9 @@
+{
+  "label": "Mas artículos",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "mas-articulos",
+    "description": "Encuentra más ayuda sobre Chat Buho."
+  }
+}

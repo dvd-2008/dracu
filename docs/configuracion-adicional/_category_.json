@@ -1,0 +1,9 @@
+{
+  "label": "Configuración adicional",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "configuracion-adicional",
+    "description": "Encuentra ayuda sobre las configuraciones adicionales."
+  }
+}
